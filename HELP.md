@@ -1,0 +1,1 @@
+If you want to use helper.apk its made for android and it tells u ip, ping, country its made for vpn ddos if you want just connect to vpn from phone and you can ddos through other device and see ping and other stuff..
